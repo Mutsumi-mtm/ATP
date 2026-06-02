@@ -2,7 +2,7 @@
 
 ---
 
-*ATP（A-Shares Transaction Personal record）* 是一个记录个人A股交易行为的仓库。其包括但不限于个人的：
+*ATP（A-Shares Transaction Personal record）* 是一个记录个人A股交易行为的仓库。其包括但不限于：  
   *买入/卖出  
   *成交价格  
   *交易逻辑  
